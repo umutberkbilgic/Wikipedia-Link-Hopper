@@ -7,3 +7,9 @@ Some observations:
 * First links tend towards linguistics and science,
 * Changing the link number to 2 makes it jump around more before settling in a "philisophy <-> science" or "latin <-> grammar" link loop,
 * I am good at wasting time during final exams.
+
+Here are some example results:
+
+![hop1](https://i.imgur.com/Ln6srXK.png)
+![hop2](https://i.imgur.com/kiKFJmD.png)
+![hop3](https://i.imgur.com/xLXDWiR.png)
